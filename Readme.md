@@ -26,7 +26,7 @@ A high-performance, real-time chat application built with **FastAPI**, **WebSock
 - **WebSockets** - Real-time bidirectional communication
 - **Uvicorn** - ASGI server
 
-### Frontend ([React Chat frontend](https://github.com/abidaqureshi/realtime-chat-frontend)
+### Frontend ([React Chat frontend](https://github.com/abidaqureshi/realtime-chat-frontend))
 - **React** + **TypeScript** - Frontend framework
 - **Tailwind CSS** - Utility-first CSS framework
 - **Vite** - Fast build tool and dev server
